@@ -1,0 +1,14 @@
+# Flask==2.0.1
+# psycopg2-binary==2.9.1
+# numpy==1.21.3
+# pandas==1.4.0
+# plotly==5.4.0
+# # matplotlib==3.4.3
+Flask
+psycopg2-binary
+pandas
+numpy
+matplotlib
+plotly
+flask-cors
+# psycopg2==2.9.1
